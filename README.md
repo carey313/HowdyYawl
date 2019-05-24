@@ -2,5 +2,5 @@
 ##  My Hello world project
 >    **Learning GitHub**\
 >     *first file changes for gitHub lesson*
-> - first bullet\
+> - first bullet
 >
